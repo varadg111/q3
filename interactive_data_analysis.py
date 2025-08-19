@@ -20,15 +20,9 @@ def __():
     mo.md("""
     # Interactive Data Analysis with Marimo
     
-    **Authors:**  
+    **Authors:**   
     - 23f2004391@ds.study.iitm.ac.in  
 
     **Date:** August 16, 2025
-    
-    This notebook demonstrates Marimo's reactive programming capabilities with:
-    - Variable dependencies between cells
-    - Interactive widgets
-    - Dynamic markdown output
-    - Real-time data visualization
     """)
     return datetime, go, mo, np, pd, px, timedelta
