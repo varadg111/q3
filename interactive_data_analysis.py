@@ -21,7 +21,6 @@ def __():
     # Interactive Data Analysis with Marimo
     
     **Authors:**  
-    - 23f3000048@ds.study.iitm.ac.in  
     - 23f2004391@ds.study.iitm.ac.in  
 
     **Date:** August 16, 2025
